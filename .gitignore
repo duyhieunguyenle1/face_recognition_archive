@@ -2,3 +2,5 @@ demo
 pythonProject
 facenet-face-verification-and-face-recognition
 Face-Recognition-using-FaceNet
+.venv*
+.idea*
